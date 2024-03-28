@@ -1,2 +1,2 @@
 # text-processing
-Different experiments for text processing like search and analysis
+Different experiments for text processing: tf-idf, ngrams, NLP, LLMs
